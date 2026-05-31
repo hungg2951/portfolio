@@ -1,5 +1,5 @@
-import resume from "../assets/pdf/resume.pdf";
-import avatar from "../assets/avatar.JPG";
+import resume from "../assets/pdf/TruongVanHung-CV.pdf";
+import avatar from "../assets/avatar.jpg";
 
 export const headerData = {
   name: "Hung",
