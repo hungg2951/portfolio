@@ -23,11 +23,22 @@
 
 .skillsContainer {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  flex-direction: column;  /* ← thêm dòng này */
   width: 100%;
   margin-top: 3.5rem;
   padding: 0 2rem;
+}
+
+.skill--row--label {
+  font-family: var(--primaryFont);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 1rem 0 0.3rem 0.5rem;
+  opacity: 0.7;
 }
 
 .skill--box {

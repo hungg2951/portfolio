@@ -1,33 +1,26 @@
+// Hàng 1 — Core skills
 export const skillsData = [
-  // JavaScript Core
   "Javascript",
   "TypeScript",
+  "React",
+  "next JS",
+  "Angular",
+  "Redux",
   "Es6",
   "Async/Await",
+];
 
-  // CSS & UI
+// Hàng 2 — Tools & Others
+export const skillsData2 = [
   "HTML",
   "CSS",
   "Tailwind",
   "Bootstrap",
   "Ant Design",
-
-  // Frameworks & Libraries
-  "React",
-  "next JS",
-  "Angular",
-  "Redux",
-
-  // API & Auth
   "Restfull API",
-  "Jwt",
-
-  // Database
   "Mysql",
   "Postgresql",
   "MongoDB",
-
-  // Tools
   "Git",
   "Figma",
   "Photoshop",
