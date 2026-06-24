@@ -10,7 +10,7 @@ export const educationData = [
     id: 2,
     institution: "FPT Polytechnic",
     course: "Web Programming and Design",
-    startYear: "2021",
-    endYear: "2024",
+    startYear: "08/2020",
+    endYear: "01/2023",
   },
 ];
